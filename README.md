@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LuciferMoringstar_Robot/modules/logo/LuciferMoringstar-Robot-Logo.jpeg" alt="LuciferMoringstar Robot Logo">
+  <img src="AUTOBOT-copy/modules/logo/AUTOBOT-copy-Logo.jpeg" alt="LuciferMoringstar Robot Logo">
 </p>
 
 <p align="center">
