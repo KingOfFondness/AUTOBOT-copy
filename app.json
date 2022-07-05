@@ -78,12 +78,12 @@
         },
         "DEV_NAME": {
             "description": "Creator Name or Username ",
-            "value": "HOWTODO",
+            "value": "king steve",
             "required": true
         },
         "SUPPORT": {
             "description": "Your Group Link Private or Public Link (with t.me or https://t.me)",
-            "value": "https://t.me/HTDGROUPFORMOVIES",
+            "value": "https://t.me/fondness_mov",
             "required": true
         }
     },
